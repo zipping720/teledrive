@@ -43,7 +43,7 @@ We using the monorepo structure with [yarn workspaces](https://classic.yarnpkg.c
 │   │   └── index.ts
 │   └── tsconfig.json
 ├── web
-│   ├── package.json
+│   ├── package.json
 │   ├── public
 │   ├── src
 │   │   ├── pages
